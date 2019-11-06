@@ -91,9 +91,9 @@ sdm.debug.disable_skip_validate=1
 sdm.perf_hint_window=50
 
 # IMS
-persist.dbg.volte_avail_ovr=1
-persist.dbg.vt_avail_ovr=1
-persist.vendor.qti.telephony.vt_cam_interface=1
+# persist.dbg.volte_avail_ovr=1
+# persist.dbg.vt_avail_ovr=1
+# persist.vendor.qti.telephony.vt_cam_interface=1
 
 # Media
 vendor.vidc.enc.disable.pq=true
